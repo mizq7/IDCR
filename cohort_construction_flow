@@ -1,0 +1,18 @@
+// Cohort Construction Logic
+digraph {
+	A [label="All patients in database"]
+	B [label="Observation window:
+2010-01-01 to 2024-12-31"]
+	C [label="≥365 days prior observation"]
+	D [label="First qualifying
+diagnosis of cognitive
+condition (code set)"]
+	E [label="Collapse to first event/era
+(optional)"]
+	F [label="Final analytic cohort"]
+	A -> B [label="Step 1"]
+	B -> C [label="Step 2"]
+	C -> D [label="Step 3"]
+	D -> E [label="Step 4"]
+	E -> F [label="Step 5"]
+}

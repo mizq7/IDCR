@@ -1,0 +1,272 @@
+outcome_id,outcome_name,target_outcomes,comparator_outcomes,any_event,estimable_both
+725378,"Primary osteoarthritis, other specified site",0,0,False,False
+725379,"Post-traumatic osteoarthritis, other specified site",0,0,False,False
+725380,"Secondary osteoarthritis, other specified site",0,0,False,False
+1569648,Irritable bowel syndrome,0,0,False,False
+1569777,Psoriasis,0,0,False,False
+1569778,Arthropathic psoriasis,0,0,False,False
+1569779,Parapsoriasis,0,0,False,False
+1570328,Polyosteoarthritis,0,0,False,False
+1570329,Osteoarthritis of hip,0,0,False,False
+1570330,Unilateral primary osteoarthritis of hip,0,0,False,False
+1570331,Unilateral osteoarthritis resulting from hip dysplasia,0,0,False,False
+1570332,Unilateral post-traumatic osteoarthritis of hip,0,0,False,False
+1570333,Osteoarthritis of knee,0,0,False,False
+1570334,Unilateral primary osteoarthritis of knee,0,0,False,False
+1570335,Unilateral post-traumatic osteoarthritis of knee,0,0,False,False
+1570336,Osteoarthritis of first carpometacarpal joint,0,0,False,False
+1570337,Unilateral primary osteoarthritis of first carpometacarpal joint,0,0,False,False
+1570338,Unilateral post-traumatic osteoarthritis of first carpometacarpal joint,0,0,False,False
+1570339,Other unilateral secondary osteoarthritis of first carpometacarpal joint,0,0,False,False
+1570340,Other and unspecified osteoarthritis,0,0,False,False
+1570341,Primary osteoarthritis of other joints,0,0,False,False
+1570342,"Primary osteoarthritis, shoulder",0,0,False,False
+1570343,"Primary osteoarthritis, elbow",0,0,False,False
+1570344,"Primary osteoarthritis, wrist",0,0,False,False
+1570345,"Primary osteoarthritis, hand",0,0,False,False
+1570346,Primary osteoarthritis ankle and foot,0,0,False,False
+1570347,Post-traumatic osteoarthritis of other joints,0,0,False,False
+1570348,"Post-traumatic osteoarthritis, shoulder",0,0,False,False
+1570349,"Post-traumatic osteoarthritis, elbow",0,0,False,False
+1570350,"Post-traumatic osteoarthritis, wrist",0,0,False,False
+1570351,"Post-traumatic osteoarthritis, hand",0,0,False,False
+1570352,"Post-traumatic osteoarthritis, ankle and foot",0,0,False,False
+1570353,Secondary osteoarthritis of other joints,0,0,False,False
+1570354,"Secondary osteoarthritis, shoulder",0,0,False,False
+1570355,"Secondary osteoarthritis, elbow",0,0,False,False
+1570356,"Secondary osteoarthritis, wrist",0,0,False,False
+1570357,"Secondary osteoarthritis, hand",0,0,False,False
+1570358,"Secondary osteoarthritis, ankle and foot",0,0,False,False
+1570359,"Osteoarthritis, unspecified site",0,0,False,False
+1571325,Other hypertrophic osteoarthropathy,0,0,False,False
+1571326,"Other hypertrophic osteoarthropathy, shoulder",0,0,False,False
+1571327,"Other hypertrophic osteoarthropathy, upper arm",0,0,False,False
+1571328,"Other hypertrophic osteoarthropathy, forearm",0,0,False,False
+1571329,"Other hypertrophic osteoarthropathy, hand",0,0,False,False
+1571330,"Other hypertrophic osteoarthropathy, thigh",0,0,False,False
+1571331,"Other hypertrophic osteoarthropathy, lower leg",0,0,False,False
+1571332,"Other hypertrophic osteoarthropathy, ankle and foot",0,0,False,False
+1595535,Other hyperlipidemia,0,0,False,False
+35205727,Eczema herpeticum,0,0,False,False
+35207062,Mixed hyperlipidemia,0,0,False,False
+35207064,Other hyperlipidemia,0,0,False,False
+35207065,"Hyperlipidemia, unspecified",0,0,False,False
+35208286,Irritable bowel syndrome with diarrhea,0,0,False,False
+35208287,Irritable bowel syndrome without diarrhea,0,0,False,False
+35208505,Psoriasis vulgaris,0,0,False,False
+35208506,Generalized pustular psoriasis,0,0,False,False
+35208509,Guttate psoriasis,0,0,False,False
+35208510,Other psoriasis,0,0,False,False
+35208511,"Psoriasis, unspecified",0,0,False,False
+35208515,Small plaque parapsoriasis,0,0,False,False
+35208516,Large plaque parapsoriasis,0,0,False,False
+35208517,Retiform parapsoriasis,0,0,False,False
+35208518,Other parapsoriasis,0,0,False,False
+35208519,"Parapsoriasis, unspecified",0,0,False,False
+35208764,Other polyosteoarthritis,0,0,False,False
+35208765,"Polyosteoarthritis, unspecified",0,0,False,False
+35208766,Bilateral primary osteoarthritis of hip,0,0,False,False
+35208767,Bilateral osteoarthritis resulting from hip dysplasia,0,0,False,False
+35208768,Bilateral post-traumatic osteoarthritis of hip,0,0,False,False
+35208769,Other bilateral secondary osteoarthritis of hip,0,0,False,False
+35208770,Other unilateral secondary osteoarthritis of hip,0,0,False,False
+35208771,"Osteoarthritis of hip, unspecified",0,0,False,False
+35208772,Bilateral primary osteoarthritis of knee,0,0,False,False
+35208773,Bilateral post-traumatic osteoarthritis of knee,0,0,False,False
+35208774,Other bilateral secondary osteoarthritis of knee,0,0,False,False
+35208775,Other unilateral secondary osteoarthritis of knee,0,0,False,False
+35208776,"Osteoarthritis of knee, unspecified",0,0,False,False
+35208777,Bilateral primary osteoarthritis of first carpometacarpal joints,0,0,False,False
+35208778,Bilateral post-traumatic osteoarthritis of first carpometacarpal joints,0,0,False,False
+35208779,Other bilateral secondary osteoarthritis of first carpometacarpal joints,0,0,False,False
+35208780,"Osteoarthritis of first carpometacarpal joint, unspecified",0,0,False,False
+35208982,Plantar fascial fibromatosis,0,0,False,False
+37200646,Irritable bowel syndrome with constipation,0,0,False,False
+37200647,Mixed irritable bowel syndrome,0,0,False,False
+37200648,Other irritable bowel syndrome,0,0,False,False
+44819938,Other psoriasis,0,0,False,False
+44819946,"Osteoarthrosis, localized, primary, ankle and foot",0,0,False,False
+44819947,"Osteoarthrosis, localized, secondary, shoulder region",0,0,False,False
+44819948,"Osteoarthrosis, unspecified whether generalized or localized, upper arm",0,0,False,False
+44821092,"Contact dermatitis and other eczema, unspecified cause",0,0,False,False
+44821125,"Osteoarthrosis, localized, not specified whether primary or secondary, shoulder region",0,0,False,False
+44821158,Plantar fascial fibromatosis,0,0,False,False
+44822167,Contact dermatitis and other eczema due to animal (cat) (dog) dander,0,0,False,False
+44822188,"Osteoarthrosis, localized, secondary",0,0,False,False
+44822189,"Osteoarthrosis, localized, secondary, pelvic region and thigh",0,0,False,False
+44822190,"Osteoarthrosis, localized, secondary, other specified sites",0,0,False,False
+44822191,"Osteoarthrosis involving or with mention of more than one site, but not specified as generalized",0,0,False,False
+44823349,"Osteoarthrosis, localized, primary, upper arm",0,0,False,False
+44823350,"Osteoarthrosis, unspecified whether generalized or localized, shoulder region",0,0,False,False
+44824473,Contact dermatitis and other eczema due to drugs and medicines in contact with skin,0,0,False,False
+44824474,Contact dermatitis and other eczema due to food in contact with skin,0,0,False,False
+44824480,Psoriasis and similar disorders,0,0,False,False
+44825651,Contact dermatitis and other eczema due to other specified agents,0,0,False,False
+44825677,"Osteoarthrosis, localized, primary, shoulder region",0,0,False,False
+44825678,"Osteoarthrosis, localized, secondary, upper arm",0,0,False,False
+44825679,"Osteoarthrosis, localized, secondary, hand",0,0,False,False
+44825680,"Osteoarthrosis, localized, not specified whether primary or secondary, hand",0,0,False,False
+44825681,"Osteoarthrosis, unspecified whether generalized or localized",0,0,False,False
+44825682,"Osteoarthrosis, unspecified whether generalized or localized, ankle and foot",0,0,False,False
+44826848,Contact dermatitis and other eczema due to plants [except food],0,0,False,False
+44826869,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh",0,0,False,False
+44826870,"Osteoarthrosis, unspecified whether generalized or localized, other specified sites",0,0,False,False
+44826908,Hypertrophic pulmonary osteoarthropathy,0,0,False,False
+44827629,Other and unspecified hyperlipidemia,0,0,False,False
+44828035,"Osteoarthrosis, localized, secondary, lower leg",0,0,False,False
+44828036,"Osteoarthrosis, localized, not specified whether primary or secondary, site unspecified",0,0,False,False
+44828037,"Osteoarthrosis, localized, not specified whether primary or secondary, forearm",0,0,False,False
+44829178,Contact dermatitis and other eczema,0,0,False,False
+44829179,Contact dermatitis and other eczema due to detergents,0,0,False,False
+44829183,Parapsoriasis,0,0,False,False
+44829195,"Osteoarthrosis, generalized, multiple sites",0,0,False,False
+44829196,"Osteoarthrosis, localized, not specified whether primary or secondary, upper arm",0,0,False,False
+44829197,"Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, multiple sites",0,0,False,False
+44830299,Contact dermatitis and other eczema due to solar radiation,0,0,False,False
+44830304,Other psoriasis and similar disorders,0,0,False,False
+44830323,"Osteoarthrosis, localized, primary",0,0,False,False
+44830324,"Osteoarthrosis, localized, primary, site unspecified",0,0,False,False
+44830325,"Osteoarthrosis, localized, primary, lower leg",0,0,False,False
+44830326,"Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, site unspecified",0,0,False,False
+44831488,Osteoarthrosis and allied disorders,0,0,False,False
+44831489,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified",0,0,False,False
+44831490,"Osteoarthrosis, unspecified whether generalized or localized, forearm",0,0,False,False
+44832602,Contact dermatitis and other eczema due to other chemical products,0,0,False,False
+44832630,"Osteoarthrosis, localized, primary, forearm",0,0,False,False
+44833810,"Osteoarthrosis, generalized",0,0,False,False
+44833811,"Osteoarthrosis, localized, primary, hand",0,0,False,False
+44833812,"Osteoarthrosis, localized, not specified whether primary or secondary, ankle and foot",0,0,False,False
+44833813,"Osteoarthrosis, unspecified whether generalized or localized, hand",0,0,False,False
+44834682,Eczematous dermatitis of eyelid,0,0,False,False
+44834952,Contact dermatitis and other eczema due to oils and greases,0,0,False,False
+44834953,Contact dermatitis and other eczema due to other specified agents,0,0,False,False
+44834975,"Osteoarthrosis, localized, primary, other specified sites",0,0,False,False
+44834976,"Osteoarthrosis, localized, secondary, site unspecified",0,0,False,False
+44834977,"Osteoarthrosis, localized, secondary, forearm",0,0,False,False
+44834978,"Osteoarthrosis, localized, secondary, ankle and foot",0,0,False,False
+44834979,"Osteoarthrosis, localized, not specified whether primary or secondary",0,0,False,False
+44834980,"Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh",0,0,False,False
+44836022,Irritable bowel syndrome,0,0,False,False
+44836171,"Osteoarthrosis, generalized, site unspecified",0,0,False,False
+44836172,"Osteoarthrosis, generalized, hand",0,0,False,False
+44836173,"Osteoarthrosis, localized, primary, pelvic region and thigh",0,0,False,False
+44836174,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg",0,0,False,False
+44836175,"Osteoarthrosis, unspecified whether generalized or localized, lower leg",0,0,False,False
+44836781,Eczema herpeticum,0,0,False,False
+44836929,Mixed hyperlipidemia,0,0,False,False
+44837309,Contact dermatitis and other eczema due to solvents,0,0,False,False
+44837335,"Osteoarthrosis, localized, not specified whether primary or secondary, other specified sites",0,0,False,False
+45533745,"Unilateral primary osteoarthritis of first carpometacarpal joint, unspecified hand",0,0,False,False
+45533746,"Primary osteoarthritis, right elbow",0,0,False,False
+45533747,"Primary osteoarthritis, left elbow",0,0,False,False
+45533748,"Primary osteoarthritis, unspecified hand",0,0,False,False
+45533749,"Secondary osteoarthritis, left wrist",0,0,False,False
+45534073,"Other hypertrophic osteoarthropathy, unspecified site",0,0,False,False
+45534074,"Other hypertrophic osteoarthropathy, left upper arm",0,0,False,False
+45534075,"Other hypertrophic osteoarthropathy, multiple sites",0,0,False,False
+45538160,Eczematous dermatitis of eyelid,0,0,False,False
+45538161,"Eczematous dermatitis of unspecified eye, unspecified eyelid",0,0,False,False
+45538681,"Unilateral primary osteoarthritis, left knee",0,0,False,False
+45538682,"Unilateral post-traumatic osteoarthritis, unspecified knee",0,0,False,False
+45538683,"Unilateral post-traumatic osteoarthritis, left knee",0,0,False,False
+45538685,"Unilateral post-traumatic osteoarthritis of first carpometacarpal joint, right hand",0,0,False,False
+45538686,"Other unilateral secondary osteoarthritis of first carpometacarpal joint, unspecified hand",0,0,False,False
+45538687,"Primary osteoarthritis, unspecified shoulder",0,0,False,False
+45538688,"Secondary osteoarthritis, left shoulder",0,0,False,False
+45538689,"Secondary osteoarthritis, unspecified wrist",0,0,False,False
+45538994,"Other hypertrophic osteoarthropathy, right hand",0,0,False,False
+45542926,Eczematous dermatitis of right lower eyelid,0,0,False,False
+45543484,"Unilateral post-traumatic osteoarthritis, right hip",0,0,False,False
+45543485,"Post-traumatic osteoarthritis, left shoulder",0,0,False,False
+45543486,"Post-traumatic osteoarthritis, left elbow",0,0,False,False
+45543487,"Secondary osteoarthritis, right wrist",0,0,False,False
+45543806,"Other hypertrophic osteoarthropathy, right forearm",0,0,False,False
+45543807,"Other hypertrophic osteoarthropathy, left forearm",0,0,False,False
+45543808,"Other hypertrophic osteoarthropathy, left hand",0,0,False,False
+45543809,"Other hypertrophic osteoarthropathy, unspecified ankle and foot",0,0,False,False
+45547778,"Eczematous dermatitis of right eye, unspecified eyelid",0,0,False,False
+45547951,"Acute eczematoid otitis externa, bilateral",0,0,False,False
+45548196,"Arthropathic psoriasis, unspecified",0,0,False,False
+45548321,"Unilateral post-traumatic osteoarthritis, right knee",0,0,False,False
+45548322,"Unilateral primary osteoarthritis of first carpometacarpal joint, left hand",0,0,False,False
+45548323,"Post-traumatic osteoarthritis, left wrist",0,0,False,False
+45548324,"Post-traumatic osteoarthritis, unspecified wrist",0,0,False,False
+45548325,"Post-traumatic osteoarthritis, unspecified ankle and foot",0,0,False,False
+45548326,"Secondary osteoarthritis, right ankle and foot",0,0,False,False
+45548612,"Other hypertrophic osteoarthropathy, unspecified shoulder",0,0,False,False
+45552556,"Eczematous dermatitis of left eye, unspecified eyelid",0,0,False,False
+45552974,Flexural eczema,0,0,False,False
+45553095,"Unilateral osteoarthritis resulting from hip dysplasia, right hip",0,0,False,False
+45553097,"Unilateral post-traumatic osteoarthritis of first carpometacarpal joint, left hand",0,0,False,False
+45553098,"Post-traumatic osteoarthritis, unspecified shoulder",0,0,False,False
+45553099,"Secondary osteoarthritis, unspecified hand",0,0,False,False
+45553398,"Other hypertrophic osteoarthropathy, right lower leg",0,0,False,False
+45553399,"Other hypertrophic osteoarthropathy, left lower leg",0,0,False,False
+45557485,"Acute eczematoid otitis externa, right ear",0,0,False,False
+45557486,"Acute eczematoid otitis externa, left ear",0,0,False,False
+45557807,"Primary osteoarthritis, left hand",0,0,False,False
+45557808,"Primary osteoarthritis, unspecified ankle and foot",0,0,False,False
+45557809,"Secondary osteoarthritis, right hand",0,0,False,False
+45558095,"Other hypertrophic osteoarthropathy, right shoulder",0,0,False,False
+45558096,"Other hypertrophic osteoarthropathy, unspecified upper arm",0,0,False,False
+45562649,"Post-traumatic osteoarthritis, unspecified elbow",0,0,False,False
+45562650,"Post-traumatic osteoarthritis, right wrist",0,0,False,False
+45562651,"Secondary osteoarthritis, unspecified shoulder",0,0,False,False
+45562966,"Other hypertrophic osteoarthropathy, unspecified thigh",0,0,False,False
+45567469,"Unilateral primary osteoarthritis, unspecified knee",0,0,False,False
+45567471,"Other unilateral secondary osteoarthritis of first carpometacarpal joint, left hand",0,0,False,False
+45567472,"Primary osteoarthritis, left shoulder",0,0,False,False
+45567473,"Post-traumatic osteoarthritis, right ankle and foot",0,0,False,False
+45567474,"Primary osteoarthritis, unspecified site",0,0,False,False
+45571847,Eczematous dermatitis of left lower eyelid,0,0,False,False
+45572263,Infantile (acute) (chronic) eczema,0,0,False,False
+45572372,"Unilateral osteoarthritis resulting from hip dysplasia, left hip",0,0,False,False
+45572373,"Unilateral post-traumatic osteoarthritis, left hip",0,0,False,False
+45572374,"Primary osteoarthritis, left wrist",0,0,False,False
+45572375,"Post-traumatic osteoarthritis, right elbow",0,0,False,False
+45572667,"Other hypertrophic osteoarthropathy, left shoulder",0,0,False,False
+45572668,"Other hypertrophic osteoarthropathy, unspecified lower leg",0,0,False,False
+45577163,"Unilateral primary osteoarthritis, unspecified hip",0,0,False,False
+45577164,"Unilateral primary osteoarthritis, left hip",0,0,False,False
+45577165,"Unilateral primary osteoarthritis, right knee",0,0,False,False
+45577168,"Secondary osteoarthritis, unspecified ankle and foot",0,0,False,False
+45577474,"Other hypertrophic osteoarthropathy, right upper arm",0,0,False,False
+45577475,"Other hypertrophic osteoarthropathy, unspecified hand",0,0,False,False
+45581528,Eczematous dermatitis of right upper eyelid,0,0,False,False
+45581716,"Acute eczematoid otitis externa, unspecified ear",0,0,False,False
+45582057,"Unilateral primary osteoarthritis of first carpometacarpal joint, right hand",0,0,False,False
+45582059,"Unilateral post-traumatic osteoarthritis of first carpometacarpal joint, unspecified hand",0,0,False,False
+45582061,"Post-traumatic osteoarthritis, left hand",0,0,False,False
+45582062,"Post-traumatic osteoarthritis, left ankle and foot",0,0,False,False
+45582063,"Secondary osteoarthritis, right shoulder",0,0,False,False
+45582064,"Secondary osteoarthritis, left hand",0,0,False,False
+45582350,"Other hypertrophic osteoarthropathy, unspecified forearm",0,0,False,False
+45582351,"Other hypertrophic osteoarthropathy, right ankle and foot",0,0,False,False
+45586889,"Unilateral primary osteoarthritis, right hip",0,0,False,False
+45586890,"Other unilateral secondary osteoarthritis of first carpometacarpal joint, right hand",0,0,False,False
+45586891,"Primary osteoarthritis, unspecified wrist",0,0,False,False
+45586892,"Primary osteoarthritis, right ankle and foot",0,0,False,False
+45586893,"Post-traumatic osteoarthritis, unspecified hand",0,0,False,False
+45586894,"Unspecified osteoarthritis, unspecified site",0,0,False,False
+45587198,"Other hypertrophic osteoarthropathy, other site",0,0,False,False
+45591743,"Primary osteoarthritis, right shoulder",0,0,False,False
+45591744,"Primary osteoarthritis, right wrist",0,0,False,False
+45591745,"Secondary osteoarthritis, unspecified elbow",0,0,False,False
+45591746,"Secondary osteoarthritis, left ankle and foot",0,0,False,False
+45591747,"Post-traumatic osteoarthritis, unspecified site",0,0,False,False
+45592079,"Other hypertrophic osteoarthropathy, right thigh",0,0,False,False
+45592080,"Other hypertrophic osteoarthropathy, left thigh",0,0,False,False
+45592081,"Other hypertrophic osteoarthropathy, left ankle and foot",0,0,False,False
+45596150,Acute eczematoid otitis externa,0,0,False,False
+45596495,"Primary osteoarthritis, right hand",0,0,False,False
+45596497,"Post-traumatic osteoarthritis, right hand",0,0,False,False
+45596498,"Secondary osteoarthritis, unspecified site",0,0,False,False
+45601213,Intrinsic (allergic) eczema,0,0,False,False
+45601349,"Unilateral post-traumatic osteoarthritis, unspecified hip",0,0,False,False
+45601354,"Primary osteoarthritis, left ankle and foot",0,0,False,False
+45601356,"Secondary osteoarthritis, right elbow",0,0,False,False
+45605579,Eczematous dermatitis of left upper eyelid,0,0,False,False
+45606126,"Unilateral osteoarthritis resulting from hip dysplasia, unspecified hip",0,0,False,False
+45606131,"Primary osteoarthritis, unspecified elbow",0,0,False,False
+45606132,"Post-traumatic osteoarthritis, right shoulder",0,0,False,False
+45606133,"Secondary osteoarthritis, left elbow",0,0,False,False
